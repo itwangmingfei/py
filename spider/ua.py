@@ -14,3 +14,8 @@ print("\n Google浏览器")
 print(ua.Chrome)
 print(ua.Chrome)
 
+#随机获取UA
+print('\n 随机获取UA')
+print(ua.random)
+
+ 
